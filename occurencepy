@@ -1,0 +1,11 @@
+createdarry=(input("enter the array))
+search=(input("enter the number to search"))
+createdarray.count(search)
+if createdarray.count(search):
+  print("the number is present in the array")
+  print("the recoccurence of this number is",createdarray.count(search))
+  
+ else:
+ print("the number is not belonging in this array")
+ 
+ #corect me if i am wrong
